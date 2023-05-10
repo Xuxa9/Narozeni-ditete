@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    margin: 0;
+    background-image: url(pozadi.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.uvod img {
+    border-radius: 40%;
+    margin-top: 5%;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.text {
+    background-color: white;
+    margin: 5% 20%;
+    padding: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.text img {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    color: rgb(0, 128, 79);
+    font-size: 50px; 
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+}
