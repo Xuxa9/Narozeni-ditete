@@ -11,9 +11,9 @@ body {
 
 .uvod img {
     border-radius: 40%;
-    margin: 4% 20% 0 20%;
+    margin: 5% 20% 0 20%;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
-    width: 45%;
+    width: 50%;
     overflow: auto;
 }
 
@@ -39,14 +39,14 @@ body {
 
 h1 {
     color: rgb(0, 128, 79);
-    font-size: 50px; 
+    font-size: 40px; 
 }
 
 h2 {
     color: black;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 p {
-    font-size: 15px;
+    font-size: 18px;
 }
