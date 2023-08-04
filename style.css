@@ -17,7 +17,9 @@ body {
     overflow: auto;
 }
 
-.text {
+.text1,
+.text2,
+.zajimavosti {
     background-color: white;
     margin: 3% 20%;
     padding: 10px;
@@ -33,7 +35,8 @@ body {
 }
 
 
-.text img {
+.text1 img,
+.text2 img {
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -49,4 +52,9 @@ h2 {
 
 p {
     font-size: 18px;
+}
+
+li {
+    margin-left: 20%;
+    text-align: left;
 }
