@@ -58,3 +58,15 @@ li {
     margin-left: 20%;
     text-align: left;
 }
+
+footer {
+    background-color: #382e30;
+    color: #fff1e6;
+    text-align: center;
+    padding: 5px 0;
+}
+
+section {
+    padding: 50px 10%;
+    overflow: auto;
+}
