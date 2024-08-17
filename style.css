@@ -11,10 +11,10 @@ body {
 
 .uvod img {
     border-radius: 50%;
-    overflow: auto;
-    max-width: 20%;
-    height: auto;
+    margin: 20%;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+    width: 25%;
+    overflow: auto;
 }
 
 .text1,
