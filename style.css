@@ -59,7 +59,8 @@ li {
     text-align: left;
 }
 
-#datumzverejneni {
+.text2 p:first-child,
+.text1 p:first-child {
      text-align: left;
     color: grey;
     font-size: 14px;
