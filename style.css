@@ -4,7 +4,7 @@ body {
     margin: 0;
     background-image: url(pozadi.jpg);
     background-position: center;
-    
+    width: 100%;
     background-repeat: repeat-y;
     text-align: center;
 }
