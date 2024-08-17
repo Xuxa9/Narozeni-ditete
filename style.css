@@ -61,7 +61,8 @@ li {
 
 .text2 p:first-child,
 .text1 p:first-child {
-     text-align: left;
+    text-align: left;
+    margin: 0;
     color: grey;
     font-size: 14px;
 }
