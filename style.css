@@ -11,7 +11,7 @@ body {
 
 .uvod img {
     border-radius: 50%;
-    margin: 20%;
+    margin: 20px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
     width: 25%;
     height: 25%;
