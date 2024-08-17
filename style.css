@@ -15,7 +15,6 @@ body {
     border-radius: 50%;
     background-size: contain;
     background-position: center;
-    background-image: url("/assets/img/dashboard/img-stdn.png");
     display: block;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
 }
