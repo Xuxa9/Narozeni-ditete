@@ -13,8 +13,7 @@ body {
     width: 64px;
     height: 64px;
     border-radius: 50%;
-    background-size: contain;
-    background-position: center;
+    overflow: auto;
     display: block;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
 }
