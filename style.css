@@ -13,7 +13,7 @@ body {
     border-radius: 50%;
     
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
-    width: 20%;
+
     overflow: auto;
 }
 
